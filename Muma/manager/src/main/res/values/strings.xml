@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Manager</string>
+    <string name="detail_process_name">detail_process_name</string>
+    <string name="kill_process">kill_process</string>
+    <string name="detail_process_copyright">detail_process_copyright</string>
+    <string name="detail_process_install_dir">detail_process_install_dir</string>
+    <string name="detail_process_data_dir">detail_process_data_dir</string>
+    <string name="detail_process_package_size">detail_process_package_size</string>
+    <string name="detail_process_permission">detail_process_permission</string>
+    <string name="detail_process_service">detail_process_service</string>
+    <string name="detail_process_activity">detail_process_activity</string>
+
+</resources>

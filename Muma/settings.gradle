@@ -1,0 +1,1 @@
+include ':app', ':demo', ':handlerdemo', ':process_manager', ':manager', ':listviewdemo', ':crcakme'

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.listviewdemo.SV
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sv"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent">
+
+    <linearlayout
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:orientation="horizontal">
+
+        <linearlayout
+            android:id="@+id/ll1"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:orientation="vertical"/>
+
+
+        <linearlayout
+            android:id="@+id/ll2"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:orientation="vertical"/>
+
+
+        <linearlayout
+            android:id="@+id/ll3"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:orientation="vertical"/>
+
+    </linearlayout>
+</com.example.listviewdemo.SV>
